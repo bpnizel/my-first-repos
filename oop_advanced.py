@@ -6,7 +6,7 @@ from Employee import Employee
 
 person = ClassPerson("Alex", 30)
 
-student = Student("Alex", 30, "English", 3, 85)
+student = Student("mike", 27, "engineer", 3,)
           
 
 employee = Employee("john", 40 , "Software Engineer", 4500)
