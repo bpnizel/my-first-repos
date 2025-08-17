@@ -5,7 +5,7 @@ from Employee import Employee
  
 
 person = ClassPerson("Alex", 30)
-
+print("this is from programmer 1") 
 student = Student("mike", 27, "engineer", 3, 70)
 
 
