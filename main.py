@@ -5,7 +5,7 @@ from Employee import Employee
  
 
 person = ClassPerson("Alex", 30)
-print("this is from programmer 1") 
+print("this is from programmer 1, hi this is the same line") 
 student = Student("mike", 27, "engineer", 3, 70)
 print("this is from programmer 2, hi how are you")
 
